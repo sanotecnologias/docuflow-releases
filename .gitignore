@@ -1,0 +1,10 @@
+# Do not commit installer binaries to git history.
+# Upload them as GitHub Release assets instead.
+*.dmg
+*.exe
+*.msi
+*.pkg
+*.zip
+*.blockmap
+
+.DS_Store
